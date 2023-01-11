@@ -15,4 +15,6 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 - 👾 Reading Ready Player One
 - 🎧 Listening to Shoe Dog
 - 🥘 Cooking more often in 2023
-- 🐘 Trying to figure out <a href="https://mastodon.social/@xoalexo" target="_blank">Mastodon</a>
+- 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
+
+<sub>Illustration: [Inter Poster- Community](https://www.figma.com/community/file/879295107760553394/Inter-Poster--Community) by Lalu Triawanri</sub>
