@@ -1,16 +1,18 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="vector-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="vector-light.svg">
+  <img alt="Thin text that reads Alex Manthei, Senior Product Designer at Monzo above a colorful orange swoosh illustration." src="vector-light.svg">
+</picture>
 
-<!--
-**amanthei/amanthei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey ✌️
 
-Here are some ideas to get you started:
+I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ 🌵.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 I’m currently...
+
+- 🏦 Working at Monzo
+- 🕹️ Building my first gaming PC
+- 👾 Reading Ready Player One
+- 🎧 Listening to Shoe Dog
+- 🥘 Cooking more often in 2023
+- 🐘 Trying to figure out <a href="https://mastodon.social/@xoalexo" target="_blank">Mastodon</a>
