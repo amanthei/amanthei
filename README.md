@@ -12,7 +12,7 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 
 - 🏦 Working at Monzo
 - 🕹️ Building my first gaming PC
-- 👾 Reading Ready Player One
+- 👾 Reading Ready Player Two
 - 🎧 Listening to Shoe Dog
 - 🥘 Cooking more often in 2023
 - 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
