@@ -12,8 +12,8 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 
 - 🏦 Working at Monzo
 - 🕹️ Building my first gaming PC
-- 👾 Reading Caps Lock: How Capitalism Took Hold of Graphic Design
-- 🎧 Listening to The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company
+- 👾 Reading Stirling Moss: The Authorised Biography
+- 🎧 Listening to The Wright Brothers
 - 🥘 Cooking more often in 2023
 - 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
 
