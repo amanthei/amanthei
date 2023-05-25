@@ -11,9 +11,9 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 ## 🧑‍💻 I’m currently...
 
 - 🏦 Working at Monzo
-- 🕹️ Building my first gaming PC
-- 👾 Reading Stirling Moss: The Authorised Biography
-- 🎧 Listening to The Wright Brothers
+- 🕹️ Playing a bunch of Destiny 2
+- 👾 Reading Xenocide by Orson Scott Card
+- 🎧 Listening to The Shuttlepod Show
 - 🥘 Cooking more often in 2023
 - 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
 
