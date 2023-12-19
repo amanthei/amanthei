@@ -11,9 +11,9 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 ## 🧑‍💻 I’m currently...
 
 - 🏦 Working at Monzo
-- 🕹️ Playing a bunch of Star Wars Jedi: Fallen Order
-- 🚇 Reading Metropolitan: An Ode to the Paris Metro by Andrew Martin
-- 🎧 Listening to Hard Fork
+- 🕹️ Playing a bunch of No Man's Sky
+- 🚇 Reading Parisian Days by Banine
+- 🎧 Listening to Cortex
 - 🥘 Cooking more often in 2023
 - 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
 
