@@ -12,8 +12,8 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 
 - 🏦 Working at Monzo
 - 🕹️ Playing a bunch of Isle of Arrows
-- 📚 Reading Translation State by Ann Leckie
-- 🎧 Listening to The Delta Flyers
+- 📚 Reading Sleeping Giants by Sylvain Neuvel
+- 🎧 Listening to Search Engine
 - 🇫🇷 Learning more French in 2024
 - 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
 
