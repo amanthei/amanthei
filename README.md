@@ -12,9 +12,9 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 
 - 🏦 Working at Monzo
 - 🕹️ Playing a bunch of Isle of Arrows
-- 📚 Reading Sleeping Giants by Sylvain Neuvel
-- 🎧 Listening to Search Engine
-- 🇫🇷 Learning more French in 2024
+- 📚 Reading Sense and Sensibility by Jane Austen
+- 🎧 Listening to Pod Save America
+- 🇺🇸 Supporting Kamala Harris and Tim Walz
 - 🐘 Trying to figure out [Mastodon](https://mastodon.social/@xoalexo)
 
 <sub>Illustration: [Inter Poster- Community](https://www.figma.com/community/file/879295107760553394/Inter-Poster--Community) by Lalu Triawanri</sub>
