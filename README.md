@@ -11,8 +11,8 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 ## 🧑‍💻 I’m currently...
 
 - 🏦 Working at Monzo
-- 🕹️ Playing a bunch of Pokémon TCGP
-- 📚 Reading Consider Phlebas by Iain M. Banks
+- 🕹️ Playing a bunch of Pokémon Go
+- 📚 Reading Taste by Stanley Tucci
 - 🎧 Listening to The Lonely Island and Seth Meyers Podcast
 - 🇺🇸 Detoxing from the news
 - 🦋 Going all in on [Bluesky](https://bsky.app/profile/alexmanthei.com)
