@@ -12,9 +12,8 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 
 - 🏦 Working at Monzo
 - 🕹️ Playing a bunch of Pokémon Go
-- 📚 Reading Taste by Stanley Tucci
+- 📚 Reading Careless People by Sarah Wynn-Williams
 - 🎧 Listening to The Lonely Island and Seth Meyers Podcast
-- 🇺🇸 Detoxing from the news
 - 🦋 Going all in on [Bluesky](https://bsky.app/profile/alexmanthei.com)
 
 <sub>Illustration: [Inter Poster- Community](https://www.figma.com/community/file/879295107760553394/Inter-Poster--Community) by Lalu Triawanri</sub>
