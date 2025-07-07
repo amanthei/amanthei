@@ -12,7 +12,7 @@ I'm Alex. My pronouns are he/him/his. I live in London but I'm from Tucson, AZ �
 
 - 🏦 Working at Monzo
 - 🕹️ Playing a bunch of Pokémon Go
-- 📚 Reading Careless People by Sarah Wynn-Williams
+- 📚 Reading The Player of Games by Iain M. Banks
 - 🎧 Listening to The Lonely Island and Seth Meyers Podcast
 - 🦋 Going all in on [Bluesky](https://bsky.app/profile/alexmanthei.com)
 
